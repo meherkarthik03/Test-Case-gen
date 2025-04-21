@@ -1,4 +1,4 @@
-# 🤖 GenAI Test Case Generator
+#  GenAI Test Case Generator
 
 A smart, offline-friendly application that uses locally-hosted Large Language Models (LLMs) to generate software test cases directly from requirement documents. Powered by [Streamlit](https://streamlit.io/) and [Ollama](https://ollama.com/), 
 this tool helps QA teams and developers quickly create structured test cases like positive, negative, boundary, and edge cases — with zero data leaving your system.
